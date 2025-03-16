@@ -1,0 +1,23 @@
+.container_title-handle {
+    color: #DAD8D7;
+
+
+}
+
+.container_title-handle > h1{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 80px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+
+}
+
+.container_title-handle > hr{
+    margin-top: 20px;
+    margin-bottom: 25px;
+    
+
+
+}
