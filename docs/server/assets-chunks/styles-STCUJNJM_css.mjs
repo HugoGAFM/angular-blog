@@ -1,2 +1,0 @@
-export default `*{margin:0;padding:0;box-sizing:border-box;background-color:#252728;color:#dad8d7;font-family:Arp,Lucida Sans Unicode,Lucida Grande,Lucida Sans}@font-face{font-family:Arp;src:local("Arp Display 240"),local("Arp-Display-240"),url("./media/ARPDisplay-240-WFYQBFLV.woff2") format("woff2"),url("./media/ARPDisplay-240-HESPGQWF.woff") format("woff"),url("./media/ARPDisplay-240-5X26GLAI.ttf") format("truetype");font-weight:400;font-style:normal}a{text-decoration:none}
-`;
